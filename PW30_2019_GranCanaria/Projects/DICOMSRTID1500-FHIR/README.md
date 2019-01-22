@@ -33,6 +33,8 @@ a novice in the topic.
 3. Create hand-coded or automatically generated representations of the same content
 using the two approaches.
 
+Let's use this [Repository](https://github.com/PeterOpp/tid1500-fhir) for to collect examples and code 
+
 Should we also consider [TID2000 Basic Diagnostic Imaging Report](http://dicom.nema.org/medical/dicom/current/output/chtml/part16/chapter_A.html#sect_TID_2000)?
 
 ## Progress and Next Steps
